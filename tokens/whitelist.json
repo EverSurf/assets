@@ -45,7 +45,7 @@
             "symbol": "BRIDGE",
             "decimals": 9,
             "addr": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
-            "logoURI": "",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/BRIDGE.png",
             "version": 5
         },
         {
