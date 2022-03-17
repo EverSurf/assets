@@ -1,0 +1,60 @@
+{
+    "tokens":[
+        {
+            "name": "Dai Stablecoin",
+            "symbol": "DAI",
+            "decimals": 18,
+            "addr": "0:eb2ccad2020d9af9cec137d3146dde067039965c13a27d97293c931dae22b2b9",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/DAI.png",
+            "version": 5
+        },
+        {
+            "name": "Tether USD",
+            "symbol": "USDT",
+            "decimals": 6,
+            "addr": "0:a519f99bb5d6d51ef958ed24d337ad75a1c770885dcd42d51d6663f9fcdacfb2",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/USDT.png",
+            "version": 5
+        },
+        {
+            "name": "USD Coin",
+            "symbol": "USDC",
+            "decimals": 6,
+            "addr": "0:c37b3fafca5bf7d3704b081fde7df54f298736ee059bf6d32fac25f5e6085bf6",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/USDC.png",
+            "version": 5
+        },
+        {
+            "name": "Wrapped BTC",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "addr": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/WBTC.png",
+            "version": 5
+        },
+        {
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18,
+            "addr": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/WETH.png",
+            "version": 5
+        },
+        {
+            "name": "Bridge",
+            "symbol": "BRIDGE",
+            "decimals": 9,
+            "addr": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
+            "logoURI": "",
+            "version": 5
+        },
+        {
+            "name": "Wrapped Everscale",
+            "symbol": "WEVER",
+            "decimals": 9,
+            "addr": "0:a49cd4e158a9a15555e624759e2e4e766d22600b7800d891e46f9291f044a93d",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/WEVER.png",
+            "version": 5
+        }
+    ]
+}
