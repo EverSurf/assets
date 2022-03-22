@@ -9,6 +9,22 @@
             "version": 5
         },
         {
+            "name": "Wrapped Bitcoin",
+            "symbol": "WBTC",
+            "decimals": 8,
+            "addr": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/WBTC.png",
+            "version": 5
+        },
+        {
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH",
+            "decimals": 18,
+            "addr": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/WETH.png",
+            "version": 5
+        },
+        {
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
@@ -25,22 +41,6 @@
             "version": 5
         },
         {
-            "name": "Bitcoin",
-            "symbol": "WBTC",
-            "decimals": 8,
-            "addr": "0:2ba32b75870d572e255809b7b423f30f36dd5dea075bd5f026863fceb81f2bcf",
-            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/WBTC.png",
-            "version": 5
-        },
-        {
-            "name": "Ethereum",
-            "symbol": "WETH",
-            "decimals": 18,
-            "addr": "0:59b6b64ac6798aacf385ae9910008a525a84fc6dcf9f942ae81f8e8485fe160d",
-            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/WETH.png",
-            "version": 5
-        },
-        {
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
@@ -49,7 +49,7 @@
             "version": 5
         },
         {
-            "name": "EVER Bridge",
+            "name": "Everscale Bridge",
             "symbol": "BRIDGE",
             "decimals": 9,
             "addr": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
