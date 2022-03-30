@@ -1,6 +1,14 @@
 {
     "tokens":[
         {
+            "name": "Everscale",
+            "symbol": "EVER",
+            "decimals": 9,
+            "addr": "0:ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/EVER.png",
+            "version": 0
+        },
+        {
             "name": "Wrapped Everscale",
             "symbol": "WEVER",
             "decimals": 9,
