@@ -60,7 +60,7 @@
             "name": "EURO Stablecoin",
             "symbol": "EUPI",
             "decimals": 8,
-            "address": "0:0cfa60f9454b1b619938c4da6a138b1cc62da937b3f6c0506405daf2a88e0115",
+            "addr": "0:0cfa60f9454b1b619938c4da6a138b1cc62da937b3f6c0506405daf2a88e0115",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/EUPI.png",
             "version": 5
         },
