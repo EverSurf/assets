@@ -71,6 +71,14 @@
             "addr": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/BRIDGE.png",
             "version": 5
+        },
+        {
+            "name": "Flatqube",
+            "symbol": "QUBE",
+            "decimals": 9,
+            "addr": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/QUBE.png",
+            "version": 5
         }
     ]
 }
