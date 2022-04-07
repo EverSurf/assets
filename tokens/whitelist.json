@@ -65,7 +65,7 @@
             "version": 5
         },
         {
-            "name": "Everscale Bridge",
+            "name": "Octus Bridge",
             "symbol": "BRIDGE",
             "decimals": 9,
             "addr": "0:f2679d80b682974e065e03bf42bbee285ce7c587eb153b41d761ebfd954c45e1",
