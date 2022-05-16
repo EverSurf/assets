@@ -79,6 +79,14 @@
             "addr": "0:9f20666ce123602fd7a995508aeaa0ece4f92133503c0dfbd609b3239f3901e2",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/QUBE.png",
             "version": 5
+        },
+        {
+            "name": "EVA",
+            "symbol": "EVA",
+            "decimals": 9,
+            "addr": "0:eaf911b4bc7f9691f9114e32919845a997b3b626add345c67a933ed20b59e9e4",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/EVA.png",
+            "version": 5
         }
     ]
 }
