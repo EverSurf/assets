@@ -65,6 +65,14 @@
             "version": 5
         },
         {
+            "name": "Cardano",
+            "symbol": "ADA",
+            "decimals": 6,
+            "addr": "0:152a7c50f7df2f305b56a1dd7e254d84a5aed018ba44b920f28def735215baa1",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/ADA.png",
+            "version": 5
+        },
+        {
             "name": "Octus Bridge",
             "symbol": "BRIDGE",
             "decimals": 9,
