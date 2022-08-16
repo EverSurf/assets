@@ -1,0 +1,57 @@
+{
+    "SurfDepools": {
+        "addr": "0:c5286a8f2e553f88776c94e15c503dda01eef1050f4e63b6e7ef217bacc871f6",
+        "abi": {
+            "ABI version": 2,
+            "version": "2.2",
+            "header": ["time", "expire"],
+            "functions": [
+                {
+                    "name": "addDepools",
+                    "inputs": [
+                        {"components":[{"components":[{"name":"enabled","type":"bool"},{"name":"name","type":"string"},{"name":"avatar","type":"string"}],"name":"entry","type":"tuple"},{"name":"addr","type":"address"}],"name":"depools","type":"tuple[]"}
+                    ],
+                    "outputs": [
+                    ]
+                },
+                {
+                    "name": "removeDepools",
+                    "inputs": [
+                        {"name":"addrs","type":"address[]"}
+                    ],
+                    "outputs": [
+                    ]
+                },
+                {
+                    "name": "getDepools",
+                    "inputs": [
+                    ],
+                    "outputs": [
+                        {"components":[{"name":"enabled","type":"bool"},{"name":"name","type":"string"},{"name":"avatar","type":"string"}],"name":"depools","type":"map(address,tuple)"}
+                    ]
+                },
+                {
+                    "name": "version",
+                    "inputs": [
+                    ],
+                    "outputs": [
+                        {"name":"version","type":"uint32"}
+                    ]
+                }
+            ],
+            "data": [
+                {"key":1,"name":"dbID","type":"uint32"}
+            ],
+            "events": [
+            ],
+            "fields": [
+                {"name":"_pubkey","type":"uint256"},
+                {"name":"_timestamp","type":"uint64"},
+                {"name":"_constructorFlag","type":"bool"},
+                {"name":"version","type":"uint32"},
+                {"name":"dbID","type":"uint32"},
+                {"components":[{"name":"enabled","type":"bool"},{"name":"name","type":"string"},{"name":"avatar","type":"string"}],"name":"m_depools","type":"map(address,tuple)"}
+            ]
+        }
+    }
+}
