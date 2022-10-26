@@ -105,7 +105,7 @@
             "version": 5
         },
         {
-            "name": "Staked EVER",
+            "name": "Staked Ever",
             "symbol": "stEVER",
             "decimals": 9,
             "addr": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
@@ -113,7 +113,7 @@
             "version": 5
         },
         {
-            "name": "Locked EVER",
+            "name": "Locked Ever",
             "symbol": "LEVER",
             "decimals": 9,
             "addr": "0:4d23272c277c46b9f5c2f8ef4d39660b311c1878e46e356a4ae8546cfa761037",
