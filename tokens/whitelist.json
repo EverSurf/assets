@@ -17,6 +17,22 @@
             "version": 5
         },
         {
+            "name": "Staked Ever",
+            "symbol": "stEVER",
+            "decimals": 9,
+            "addr": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/STEVER.png",
+            "version": 5
+        },
+        {
+            "name": "Locked Ever",
+            "symbol": "LEVER",
+            "decimals": 9,
+            "addr": "0:4d23272c277c46b9f5c2f8ef4d39660b311c1878e46e356a4ae8546cfa761037",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/LEVER.png",
+            "version": 5
+        },
+        {
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
             "decimals": 8,
@@ -102,22 +118,6 @@
             "decimals": 18,
             "addr": "0:9d49206b0eaadc5125c6b5e30410505db7740f827857915922cdb7efe199b622",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/PURR.png",
-            "version": 5
-        },
-        {
-            "name": "Staked Ever",
-            "symbol": "stEVER",
-            "decimals": 9,
-            "addr": "0:6d42d0bc4a6568120ea88bf642edb653d727cfbd35868c47877532de128e71f2",
-            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/STEVER.png",
-            "version": 5
-        },
-        {
-            "name": "Locked Ever",
-            "symbol": "LEVER",
-            "decimals": 9,
-            "addr": "0:4d23272c277c46b9f5c2f8ef4d39660b311c1878e46e356a4ae8546cfa761037",
-            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/LEVER.png",
             "version": 5
         }
     ]
