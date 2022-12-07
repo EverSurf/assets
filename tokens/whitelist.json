@@ -124,7 +124,7 @@
             "name": "Flex Token",
             "symbol": "FLX",
             "decimals": 9,
-            "addr": "0:0000000000000000000000000000000000000000000000000000000000000000",
+            "addr": "0:0000000000000000000000000000000000000000000000000000000000000001",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/FLX.png",
             "version": 1
         },
