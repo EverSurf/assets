@@ -119,6 +119,22 @@
             "addr": "0:9d49206b0eaadc5125c6b5e30410505db7740f827857915922cdb7efe199b622",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/PURR.png",
             "version": 5
+        },
+        {
+            "name": "Flex Token",
+            "symbol": "FLX",
+            "decimals": 9,
+            "addr": "0:0000000000000000000000000000000000000000000000000000000000000000",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/FLX.png",
+            "version": 1
+        },
+        {
+            "name": "Surf Utility Token",
+            "symbol": "SURF",
+            "decimals": 9,
+            "addr": "0:5b7ba65ac558987c1fa99481a82f1ff2eb7dbe9e6d326c5ce77ce057a8346199",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/SURF.png",
+            "version": 0
         }
     ]
 }
