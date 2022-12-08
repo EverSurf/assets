@@ -1,5 +1,20 @@
 {
     "Swapper": {
         "addr": "0:fb69ca9f22e9ce54d926176ca68614644521050c77dc53d644081c51ef3a892c"
+    },
+    "Everstaking": {
+        "addr": "0:66cb703cd63dd0b9eafbce702a9f838211ba1ea5ccce101dc81b98114d824b8a"
+    },
+    "FlexVesting": {
+        "addr": "0:0000000000000000000000000000000000000000000000000000000000000000"
+    },
+    "Multisig": {
+        "addr": "0:c69a0ed4a11b467ec1a981f29139dc3ff6af47eeacd2cd93e67a6cfc6f771cfb"
+    },
+    "Activator": {
+        "addr": "0:533c5450e11ed2aad36cce68f3326692bdb32141a01fe53e17effc2e91daa4a8"
+    },
+    "EverSurfToken": {
+        "addr": "0:be358a444895ed16532a3ec901ea25d6f1f766bf5921833e4cec87f8b8dd7aba"
     }
 }
