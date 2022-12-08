@@ -121,12 +121,12 @@
             "version": 5
         },
         {
-            "name": "Flex Token",
+            "name": "FLEX",
             "symbol": "FLX",
             "decimals": 9,
             "addr": "0:0000000000000000000000000000000000000000000000000000000000000001",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/FLX.png",
-            "version": 1
+            "version": 0
         },
         {
             "name": "Surf Utility Token",
@@ -134,7 +134,15 @@
             "decimals": 9,
             "addr": "0:5b7ba65ac558987c1fa99481a82f1ff2eb7dbe9e6d326c5ce77ce057a8346199",
             "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/SURF.png",
-            "version": 0
+            "version": 1
+        },
+        {
+            "name": "GamerHub",
+            "symbol": "GHT",
+            "decimals": 18,
+            "addr": "0:1d5dce78bf1f4fadd3d75b57e3a1437504111fb6003e81f2edc6827f80b65e5e",
+            "logoURI": "https://raw.githubusercontent.com/EverSurf/assets/main/tokens/icons/GHT.png",
+            "version": 2
         }
     ]
 }
