@@ -19,5 +19,8 @@
     },
     "EverSurfToken": {
         "addr": "0:be358a444895ed16532a3ec901ea25d6f1f766bf5921833e4cec87f8b8dd7aba"
+    },
+    "BoostedStaking": {
+        "addr": "0:06479a3c94b089bf50f33308eb9e6263e8e2a67885c01f3566655b641da93ff3"
     }
 }
