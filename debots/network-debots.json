@@ -25,6 +25,11 @@
             "addr": "0:06479a3c94b089bf50f33308eb9e6263e8e2a67885c01f3566655b641da93ff3"
         }
     },
+    "devnet": {
+        "Activator": {
+            "addr": "0:533c5450e11ed2aad36cce68f3326692bdb32141a01fe53e17effc2e91daa4a8"
+        }
+    },
     "venomnet": {
         "Everstaking": {
             "addr": "0:ee712f49a74190dbd37d04fe464a4afd78f7378d89b12f10b587f3b40c4293e0"
