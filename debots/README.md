@@ -6,6 +6,6 @@
 
 ### network-debots.json
 
-- For Surf 9.2.6 and newer (debots for all supported TVM network)
+- For Surf 9.2.6 and newer (debots for all supported TVM networks)
 
 _N.B. Both files should contain actual data
