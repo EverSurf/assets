@@ -9,3 +9,5 @@
 - For Surf 9.2.6 and newer (debots for all supported TVM networks)
 
 _N.B. Both files should contain actual data
+
+_N.B. `Staking` for `network-debots.json` is same as `Everstaking` for `debot.json`

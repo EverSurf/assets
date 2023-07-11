@@ -6,7 +6,7 @@
         "TokenAPI": {
             "addr": "0:bd9263ad32ab53e158d59a929517128f121a356db0f6e76ab9511a6172b35a03"
         },
-        "Everstaking": {
+        "Staking": {
             "addr": "0:5a75de5753f091d47805a82378cdcf1589466f2ef64c8fcc75a2af716f0d9a0a"
         },
         "FlexVesting": {
@@ -31,7 +31,7 @@
         }
     },
     "venomnet": {
-        "Everstaking": {
+        "Staking": {
             "addr": "0:ee712f49a74190dbd37d04fe464a4afd78f7378d89b12f10b587f3b40c4293e0"
         }
     }
