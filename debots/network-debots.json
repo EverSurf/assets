@@ -1,10 +1,10 @@
 {
     "mainnet": {
         "Swapper": {
-            "addr": "0:fb69ca9f22e9ce54d926176ca68614644521050c77dc53d644081c51ef3a892c"
+            "addr": "0:e122545370f04b267a3309aeda5a6b71ec12c7426f796fec895d92115bdff752"
         },
         "TokenAPI": {
-            "addr": "0:bd9263ad32ab53e158d59a929517128f121a356db0f6e76ab9511a6172b35a03"
+            "addr": "0:a08494eb42894687277ebbd1a0ebfec8324d58be0e288e97a444079309c9c934"
         },
         "Staking": {
             "addr": "0:5a75de5753f091d47805a82378cdcf1589466f2ef64c8fcc75a2af716f0d9a0a"
